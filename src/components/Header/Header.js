@@ -16,17 +16,17 @@ const Header = () =>  (
     </Div1>
     <Div2>
       <li>
-        <Link href="#projects">
+        <Link href="https://CodedreamerJ.github.io/My_React_Personal_Website/#projects">
           <NavLink>Projects</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="#tech">
+        <Link href="https://CodedreamerJ.github.io/My_React_Personal_Website/#tech">
           <NavLink>Technologies</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="#about">
+        <Link href="https://CodedreamerJ.github.io/My_React_Personal_Website/#about">
           <NavLink>About</NavLink>
         </Link>
       </li>
@@ -35,7 +35,7 @@ const Header = () =>  (
       <SocialIcons href="https://github.com/CodedreamerJ">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://linkedin.com/in/james-romero-0302b21a6">
+      <SocialIcons href="https://linkedin.com/in/james-l-romero-iii">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
       <SocialIcons href="https://instagram.com">
